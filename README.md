@@ -6,5 +6,5 @@ W drugą stronę - zmiany wprowadzone w pliku README.md z poziomu lokalnego, nas
 *poleceniem status możemy podejrzeć kolejkę plików czekających na wypchnięcie
 *poleceniem commit zatwierdzamy zmiany
 *commit -m "polecenie -m pozwala na dodanie wiadomości do wysyłanego pliku co może ułatwić prace innym członkom zespołu"
-
+*a poleceniem push wypychamy zmiany
 
